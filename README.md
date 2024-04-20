@@ -25,8 +25,10 @@
 
 > ไปที่ qb-apartments\config.lua
 > ```js
-> Apartments.Starting = false
-> ```
+>RegisterNetEvent('qb-multicharacter:client:chooseChar', function()
+>    Apartments.Starting = false
+>end)
+```
 
 >ไปที่ server.cfg
 >```js
