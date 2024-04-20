@@ -2,7 +2,7 @@
 
 # นี้คือ qb-multicharacter สำหรับ liberty city
 
-> 
+
 > ไปที่ qb-multicharacter\client\main.lua 
 > ```js
 >RegisterNetEvent('qb-multicharacter:client:chooseChar', function()
