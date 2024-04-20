@@ -42,7 +42,7 @@
 > ```js
 > delete fivem-map-skater
 > delete fivem-map-hipster
-![Discord ](https://media.discordapp.net/attachments/1156702604324261959/1231389656931893370/image.png?ex=6636c7fc&is=662452fc&hm=23d13b2fb62c899367b27ecc43cccf7cce993b9af1ca09f16a88e5aaa74e1dd1&=&format=webp&quality=lossless&width=1190&height=392)
+>![Discord ](https://media.discordapp.net/attachments/1156702604324261959/1231389656931893370/image.png?>ex=6636c7fc&is=662452fc&hm=23d13b2fb62c899367b27ecc43cccf7cce993b9af1ca09f16a88e5aaa74e1dd1&=&format=webp&quality=lossless&width=1190&height=392)
 ```
 
 * ขอให้สนุกถ้าหากมีปัญหาติดต่อฉันที่ where_we_are 
