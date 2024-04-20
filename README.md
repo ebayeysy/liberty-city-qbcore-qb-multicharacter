@@ -28,10 +28,10 @@
 > Apartments.Starting = false
 > ```
 
-> ไปที่ server.cfg
-> ```js
-> set gamebuild to 2189
-> set sv_enforceGameBuild 2189
+>ไปที่ server.cfg
+>```js
+>set gamebuild to 2189
+>set sv_enforceGameBuild 2189
 ```
 
 > ไปที่ [gameplay]\[maps] 
