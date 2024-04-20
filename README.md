@@ -23,7 +23,6 @@
 >end)
 ```
 
-
 > ไปที่ qb-apartments\config.lua
 > ```js
 > Apartments.Starting = false
