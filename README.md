@@ -22,7 +22,7 @@
 >    openCharMenu(true)
 >end)
 ![Discord ](https://media.discordapp.net/attachments/1156702604324261959/1231389459434438676/image.png?ex=6636c7cd&is=662452cd&hm=979fc970a0514dcf4413fd0d3b03a130f559dca394d1faf637df34bb040d5d4a&=&format=webp&quality=lossless&width=577&height=192)
-> ```
+```
 
 
 > ไปที่ qb-apartments\config.lua
