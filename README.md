@@ -21,7 +21,7 @@
 >    ShutdownLoadingScreenNui()
 >    openCharMenu(true)
 >end)
-```
+>```
 
 > ไปที่ qb-apartments\config.lua
 > ```js
