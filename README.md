@@ -29,7 +29,7 @@
 >RegisterNetEvent('qb-multicharacter:client:chooseChar', function()
 >    Apartments.Starting = false
 >end)
-[Discord ] (https://media.discordapp.net/attachments/1156702604324261959/1231389503990661120/image.png?ex=6636c7d7&is=662452d7&hm=3c769ad79bc370a3bfca6d9aeef5d7e155e11c9c1bee43eb4708bbc8cdf2b0e6&=&format=webp&quality=lossless&width=985&height=472)
+> [Discord ] (https://media.discordapp.net/attachments/1156702604324261959/1231389503990661120/image.png?ex=6636c7d7&is=662452d7&hm=3c769ad79bc370a3bfca6d9aeef5d7e155e11c9c1bee43eb4708bbc8cdf2b0e6&=&format=webp&quality=lossless&width=985&height=472)
 >```
 
 >ไปที่ server.cfg
