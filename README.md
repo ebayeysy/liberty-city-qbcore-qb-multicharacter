@@ -28,19 +28,19 @@
 >RegisterNetEvent('qb-multicharacter:client:chooseChar', function()
 >    Apartments.Starting = false
 >end)
-```
+>```
 
 >ไปที่ server.cfg
 >```js
 >set gamebuild to 2189
 >set sv_enforceGameBuild 2189
-```
+>```
 
 > ไปที่ [gameplay]\[maps] 
 > ```js
 > delete fivem-map-skater
 > delete fivem-map-hipster
-```
+>```
 
 * ขอให้สนุกถ้าหากมีปัญหาติดต่อฉันที่ where_we_are 
 * อีเมล kawiaxnyyat@gmail.com
