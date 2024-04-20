@@ -1,7 +1,6 @@
 # liberty-city-qbcore-qb-multicharacter
 
 # นี้คือ qb-multicharacter สำหรับ liberty city
-![Discord Logo]([images/logo.png](https://media.discordapp.net/attachments/1156702604324261959/1208230183836983306/02332a6ec52c97953ea9a9107adef36f.png?ex=6635958b&is=6623208b&hm=045b220f7102e8d359eb70595d8dcdcc80a63a160ebeb1fc1c456ba281ddef35&=&format=webp&quality=lossless&width=368&height=367))
 
 > ไปที่ qb-multicharacter\client\main.lua 
 > ```js
@@ -21,7 +20,7 @@
 >    ShutdownLoadingScreenNui()
 >    openCharMenu(true)
 >end)
-![Discord ]https://media.discordapp.net/attachments/1156702604324261959/1231389459434438676/image.png?ex=6636c7cd&is=662452cd&hm=979fc970a0514dcf4413fd0d3b03a130f559dca394d1faf637df34bb040d5d4a&=&format=webp&quality=lossless&width=1022&height=340)
+![Discord]https://media.discordapp.net/attachments/1156702604324261959/1231389459434438676/image.png?ex=6636c7cd&is=662452cd&hm=979fc970a0514dcf4413fd0d3b03a130f559dca394d1faf637df34bb040d5d4a&=&format=webp&quality=lossless&width=1022&height=340)
 >```
 
 > ไปที่ qb-apartments\config.lua
