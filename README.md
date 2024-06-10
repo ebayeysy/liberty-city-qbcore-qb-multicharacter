@@ -67,7 +67,7 @@
 >Config.CamCoords = vector4(-1782.49, 642.66, 12.05, 92.92) 
 >Config.EnableDeleteButton = true
 >Config.customNationality = false
->Config.SkipSelection = tru
+>Config.SkipSelection = true
 >Config.DefaultNumberOfCharacters = 5
 >Config.PlayersNumberOfCharacters = {
 >    { license = "license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", numberOfChars = 2 },
