@@ -23,13 +23,28 @@
 >```
 ![Discord ](https://media.discordapp.net/attachments/1156702604324261959/1231389459434438676/image.png?ex=6636c7cd&is=662452cd&hm=979fc970a0514dcf4413fd0d3b03a130f559dca394d1faf637df34bb040d5d4a&=&format=webp&quality=lossless&width=1022&height=340)
 ---
+> ไปที่ qb-multicharacter\client\main.lua 
+> ```js
+>Config = {}
+>Config.Interior = vector3(-814.89, 181.95, 76.85) -- Interior to load where characters are previewed
+>Config.DefaultSpawn = vector3(2543.96, 975.03, 6.09) -- Default spawn coords if you have start apartments disabled
+>Config.PedCoords = vector4(-1785.67, 642.47, 12.05, 271.5) -- Create preview ped at these coordinates
+>Config.HiddenCoords = vector4(-1780.06, 651.51, 13.32, 273.36) -- Hides your actual ped while you are in selection
+>Config.CamCoords = vector4(-1782.49, 642.66, 12.05, 92.92) -- Camera coordinates for character preview screen
+>Config.EnableDeleteButton = true -- Define if the player can delete the character or not
+>Config.customNationality = false -- Defines if Nationality input is custom of blocked to the list of Countries
+>Config.SkipSelection = true -- Skip the spawn selection and spawns the player at the last location
+>Config.DefaultNumberOfCharacters = 5 -- Define maximum amount of default characters (maximum 5 characters defined by default)
+>Config.PlayersNumberOfCharacters = { -- Define maximum amount of player characters by rockstar license (you can find this license in your server's database in the player table)
+>    { license = "license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", numberOfChars = 2 },
+>}
+>```
+---
 
 
 > ไปที่ qb-apartments\config.lua
 > ```js
->RegisterNetEvent('qb-multicharacter:client:chooseChar', function()
->    Apartments.Starting = false
->end)
+>Apartments.Starting = false
 >```
 ![Discord ](https://media.discordapp.net/attachments/1156702604324261959/1231389503990661120/image.png?ex=6636c7d7&is=662452d7&hm=3c769ad79bc370a3bfca6d9aeef5d7e155e11c9c1bee43eb4708bbc8cdf2b0e6&=&format=webp&quality=lossless&width=985&height=472)
 ---
