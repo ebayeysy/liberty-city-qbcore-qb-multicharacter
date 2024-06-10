@@ -100,5 +100,5 @@
 
 ---
 
-* ขอให้สนุกถ้าหากมีปัญหาติดต่อฉันที่ Discord where_we_are 
+* ขอให้สนุกถ้าหากมีปัญหาติดต่อฉันที่ Discord shifulls
 * อีเมล kawiaxnyyat@gmail.com
