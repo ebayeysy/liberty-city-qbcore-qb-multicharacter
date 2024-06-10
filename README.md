@@ -39,7 +39,7 @@
 >    { license = "license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", numberOfChars = 2 },
 >}
 >```
-![Discord ]([https://media.discordapp.net/attachments/1156702604324261959/1231389459434438676/image.png?ex=6636c7cd&is=662452cd&hm=979fc970a0514dcf4413fd0d3b03a130f559dca394d1faf637df34bb040d5d4a&=&format=webp&quality=lossless&width=1022&height=340](https://media.discordapp.net/attachments/1122271190925447219/1249649004602462218/Screenshot_2024-06-10_155541.png?ex=666811d4&is=6666c054&hm=068725e2b21b05befaa3a4f5ffb2b5944fbc4665d44d44e676bcb54ceb1431e5&=&format=webp&quality=lossless&width=1440&height=280))
+![Discord ]([https://media.discordapp.net/attachments/1156702604324261959/1231389503990661120/image.png?ex=6636c7d7&is=662452d7&hm=3c769ad79bc370a3bfca6d9aeef5d7e155e11c9c1bee43eb4708bbc8cdf2b0e6&=&format=webp&quality=lossless&width=985&height=472](https://media.discordapp.net/attachments/1122271190925447219/1249649004602462218/Screenshot_2024-06-10_155541.png))
 ---
 
 
