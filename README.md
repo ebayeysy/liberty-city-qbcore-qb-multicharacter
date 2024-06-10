@@ -26,19 +26,20 @@
 > ไปที่ qb-multicharacter\client\main.lua 
 > ```js
 >Config = {}
->Config.Interior = vector3(-814.89, 181.95, 76.85) -- Interior to load where characters are previewed
->Config.DefaultSpawn = vector3(2543.96, 975.03, 6.09) -- Default spawn coords if you have start apartments disabled
->Config.PedCoords = vector4(-1785.67, 642.47, 12.05, 271.5) -- Create preview ped at these coordinates
->Config.HiddenCoords = vector4(-1780.06, 651.51, 13.32, 273.36) -- Hides your actual ped while you are in selection
->Config.CamCoords = vector4(-1782.49, 642.66, 12.05, 92.92) -- Camera coordinates for character preview screen
->Config.EnableDeleteButton = true -- Define if the player can delete the character or not
->Config.customNationality = false -- Defines if Nationality input is custom of blocked to the list of Countries
->Config.SkipSelection = true -- Skip the spawn selection and spawns the player at the last location
->Config.DefaultNumberOfCharacters = 5 -- Define maximum amount of default characters (maximum 5 characters defined by default)
->Config.PlayersNumberOfCharacters = { -- Define maximum amount of player characters by rockstar license (you can find this license in your server's database in the player table)
+>Config.Interior = vector3(-814.89, 181.95, 76.85)
+>Config.DefaultSpawn = vector3(2543.96, 975.03, 6.09) 
+>Config.PedCoords = vector4(-1785.67, 642.47, 12.05, 271.5)
+>Config.HiddenCoords = vector4(-1780.06, 651.51, 13.32, 273.36) 
+>Config.CamCoords = vector4(-1782.49, 642.66, 12.05, 92.92) 
+>Config.EnableDeleteButton = true
+>Config.customNationality = false
+>Config.SkipSelection = tru
+>Config.DefaultNumberOfCharacters = 5
+>Config.PlayersNumberOfCharacters = {
 >    { license = "license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", numberOfChars = 2 },
 >}
 >```
+![Discord ]([https://media.discordapp.net/attachments/1156702604324261959/1231389459434438676/image.png?ex=6636c7cd&is=662452cd&hm=979fc970a0514dcf4413fd0d3b03a130f559dca394d1faf637df34bb040d5d4a&=&format=webp&quality=lossless&width=1022&height=340](https://media.discordapp.net/attachments/1122271190925447219/1249649004602462218/Screenshot_2024-06-10_155541.png?ex=666811d4&is=6666c054&hm=068725e2b21b05befaa3a4f5ffb2b5944fbc4665d44d44e676bcb54ceb1431e5&=&format=webp&quality=lossless&width=1440&height=280))
 ---
 
 
